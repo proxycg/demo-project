@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en>
+<html>
+	<head>
+		<title>A New Page</title>
+	</head>
+	<body>
+		<div id="newpage">
+			A New Web Page
+		</div>
+	</body>
+</html>
